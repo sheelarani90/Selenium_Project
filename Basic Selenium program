@@ -1,0 +1,4 @@
+Public Static void main(string[] args)
+{
+   system.out.println("Mini project completed")
+}
